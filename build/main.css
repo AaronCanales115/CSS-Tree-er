@@ -1,7 +1,11 @@
 #hero {
   position: relative;
   text-align: center;
+  
+}
 
+#hero img{
+  width: 100%;
 }
 
 #hero h2 {
